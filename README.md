@@ -1,11 +1,12 @@
 # spa-vue-dynamic-page-form
-SPA
-Vue
-Vue-router
-Axios
-Ant design
-Storybook
-Firebase
+Building dynamic pages with forms
+- SPA
+- Vue
+- Vue-router
+- Axios
+- Ant design
+- Storybook
+- Firebase
 
 Demo >> https://spa-vue-dynamic-page-form.web.app/
 
