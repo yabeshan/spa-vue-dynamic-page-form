@@ -10,6 +10,8 @@ Building dynamic pages with forms
 
 Demo >> https://spa-vue-dynamic-page-form.web.app/
 
+![screen](https://user-images.githubusercontent.com/2891578/87499662-1aab9f00-c65b-11ea-993c-042bc876f0b3.png)
+
 ## Project setup
 ```
 npm install
